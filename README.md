@@ -77,13 +77,18 @@ xnor(y7,a,b);
 endmodule
 ```
 ## Logic symbol & Truthtable
-![gates de](https://user-images.githubusercontent.com/118622513/230283813-08be2ea7-2f42-418e-a566-9affcd7fe41e.jpg)
-![table exp1 de](https://user-images.githubusercontent.com/118622513/230283828-cc23e8e8-7359-4bcd-b00f-1e7b5c9087e1.jpg)
+![gates](https://user-images.githubusercontent.com/118622513/230292579-41ac9092-e8c4-46c2-8649-0e490534c77f.jpg)
+
+
+![11111](https://user-images.githubusercontent.com/118622513/230292390-276e1c82-5b0d-4d78-950e-bf4fa435c95f.jpg)
+
+
 
 
 ## RTL realization
 ## Output:
 ![dia output](https://user-images.githubusercontent.com/118622513/230283876-12f3ae47-9f0f-491e-a0c9-40d762fcef78.jpg)
+![tt](https://user-images.githubusercontent.com/118622513/230293495-2cb5050d-3747-440e-85a7-3ee21595f27a.png)
 
 
 ## Result:
